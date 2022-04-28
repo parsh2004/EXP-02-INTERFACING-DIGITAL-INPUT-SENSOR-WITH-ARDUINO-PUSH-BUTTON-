@@ -99,5 +99,5 @@ void loop()
 
 Output of the simulation :
 
-[My image](username.github.com/repository/img/image.jpg)
+[My image](C:\Users\Parshwanath\Pictures\Screenshots\ex 01.png)
 
